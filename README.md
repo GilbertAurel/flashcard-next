@@ -2,6 +2,12 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Development Environment
+* NextJS 11.1.2
+* React Typescript 17.0.2
+* Eslint Airbnb style 7.32.0
+* Sass 1.42.1
+
 ## Getting Started
 
 First, run the development server:
